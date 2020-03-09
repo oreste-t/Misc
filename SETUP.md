@@ -1,4 +1,4 @@
-# MacOS Setup
+# MacOS TurboSETI Setup
 ## Virtual Environment
 TurboSETI runs on python2. Many devices are instead running
  the latest version of python, python3. In order to get turboSETI 
