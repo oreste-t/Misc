@@ -58,7 +58,7 @@ are in the correct folder, type
 
 Installation is now complete. Anytime you want to use turboSETI from 
 terminal, simply boot up your virtual environment with ```pipenv shell```,
-navigate to the folder where your argument files are (or type out their path)
+navigate to the folder where your argument files are (or don't if you'd rather type out their path)
 and run the command as stated in the repository's README. You can exit
 the shell by typing ```exit```.
 
