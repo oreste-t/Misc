@@ -44,6 +44,7 @@ and hitting clone or download. Copy the link it gives you then go back to
 terminal. Navigate to a directory you want to clone into, then type
 
 ```git clone https://github.com/UCBerkeleySETI/turbo_seti.git```
+
 Enter the folder that gets created, then make sure ```setup.py``` is
 in there. You will need it for the next part.
 #### Setup
